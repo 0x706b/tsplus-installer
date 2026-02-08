@@ -1,8 +1,8 @@
 {
-  "name": "@tsplus/installer",
+  "name": "@0x706b/tsplus-installer",
   "version": "0.0.189",
-  "repository": "https://github.com/ts-plus/installer.git",
-  "author": "Michael Arnaldi <arnaldimichael@gmail.com>",
+  "repository": "https://github.com/0x706b/tsplus-installer.git",
+  "author": "",
   "license": "MIT",
   "bin": {
     "tsplus-install": "./bin/tsplus-install"
