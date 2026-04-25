@@ -1,5 +1,11 @@
 # @tsplus/installer
 
+## 0.0.190
+
+### Patch Changes
+
+- [`eec272b`](https://github.com/0x706b/tsplus-installer/commit/eec272bd3c3e956a18e68c8f6a31438418ddac12) Thanks [@0x706b](https://github.com/0x706b)! - chore: update dependencies
+
 ## 0.0.189
 
 ### Patch Changes
@@ -915,7 +921,6 @@
   ```
 
   Notes:
-
   - TS+ will add imports in your code and it will use fully qualified imports like `@tsplus-tests/package/MyFile`
   - It is your job to make sure every file is properly exported in your `package.json` exports.
   - Each file should correspond to a unique import, to avoid ending up with circular references as much as possible
